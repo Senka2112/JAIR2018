@@ -1,5 +1,5 @@
 # JAIR2017
-Decreasing Uncertainty in Planning with State Prediction
+
 
 This repository contains test scripts for the results presented in the paper ["Using Machine Learning for Decreasing State Uncertainty in Planning"] by Senka Krivic, Michael Cashmore, Daniele Magazzeni, Sandor Szedmak and Justus Piater
 
@@ -32,9 +32,9 @@ Planning domains
 - 'mars-rovers', a multi-robot version of the navigation problem of [Cassandra et al.](http://people.csail.mit.edu/lpk/papers/iros96.ps) 
 - 'persistent-auv', described by [Palomeras et al.](https://www.springerprofessional.de/en/toward-persistent-autonomous-intervention-in-a-subsea-panel/10930422)
  
- These domains are contained in this repository under [domains_accuracy](https://github.com/Senka2112/IJCAI2017/tree/master/domains_accuracy)
+ These domains are contained in this repository under [domains_accuracy](https://github.com/Senka2112/JAIR2018/tree/master/domains_accuracy)
 
-Problems defined for evaluation with conditional planning are given under [domain_problem_complexity](https://github.com/Senka2112/IJCAI2017/tree/master/domain_problem_complexity)
+Problems defined for evaluation with conditional planning are given under [domain_problem_complexity](https://github.com/Senka2112/JAIR2018/tree/master/domain_problem_complexity)
 
 Runing the tests scripts
 ========================
